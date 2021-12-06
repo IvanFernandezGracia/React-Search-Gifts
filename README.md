@@ -2,8 +2,10 @@
 Website to search for gift on a particular topic. The gift database is taken from the following page: https://giphy.com/ 
 
 ## Home Page
+![Captura de pantalla 2021-12-06 195155](https://user-images.githubusercontent.com/48660555/144935668-2669fc1d-328d-44e4-b66b-67fee1a81e9d.png)
 
 ## Video
+https://user-images.githubusercontent.com/48660555/144936049-fac31852-7dbe-4d21-83a7-2202009a81cf.mp4
 
 <!-- Tech -->
 ## Skills
